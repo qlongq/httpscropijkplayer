@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/xiaolong/Develop/ijkSource/dist/ijkplayer/ijkplayer-example/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/xiaolong/Develop/ijkSource/dist/ijkplayer/ijkplayer-example/build/intermediates/pre-dexed/all32/debug/internal_impl-23.0.1_b61a3d002a6805307a6e0dca41aceb8081469764.jar" />
+    </item>
+    <item
+        jar="/Users/xiaolong/Develop/ijkSource/dist/ijkplayer/ijkplayer-example/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/xiaolong/Develop/ijkSource/dist/ijkplayer/ijkplayer-example/build/intermediates/pre-dexed/all32/debug/com.android.support-support-v4-23.0.1_229637ee24967de3fa2aaa62b55987915de8ba2a.jar" />
+    </item>
+    <item
+        jar="/Users/xiaolong/Develop/ijkSource/dist/ijkplayer/ijkplayer-example/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer/r1.5.11/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="0a919fdfb7808ff27b33e6e84ec990478abc9cf1">
+        <dex dex="/Users/xiaolong/Develop/ijkSource/dist/ijkplayer/ijkplayer-example/build/intermediates/pre-dexed/all32/debug/com.google.android.exoplayer-exoplayer-r1.5.11_8226fd9b627fc5e1adc5334e6d8284970f688cdf.jar" />
+    </item>
+    <item
+        jar="/Users/xiaolong/Develop/ijkSource/dist/ijkplayer/ijkplayer-example/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/xiaolong/Develop/ijkSource/dist/ijkplayer/ijkplayer-example/build/intermediates/pre-dexed/all32/debug/com.android.support-appcompat-v7-23.0.1_71c28b106e82fe159a329ffbd939dc8f115111e1.jar" />
+    </item>
+    <item
+        jar="/Users/xiaolong/Develop/ijkSource/dist/ijkplayer/ijkplayer-example/build/intermediates/exploded-aar/ijkplayer/ijkplayer-armv7a/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="679a29ac25c3ac32c674e8382dc8c97f3cabdebe">
+        <dex dex="/Users/xiaolong/Develop/ijkSource/dist/ijkplayer/ijkplayer-example/build/intermediates/pre-dexed/all32/debug/ijkplayer-ijkplayer-armv7a-unspecified_8b18b5901aa7bcfdc82de8888b861a94cc55abb7.jar" />
+    </item>
+    <item
+        jar="/Users/xiaolong/.gradle/caches/modules-2/files-2.1/com.squareup/otto/1.3.8/cf615176cd1177edf71d3c9605f8dc148fede6be/otto-1.3.8.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="cf615176cd1177edf71d3c9605f8dc148fede6be">
+        <dex dex="/Users/xiaolong/Develop/ijkSource/dist/ijkplayer/ijkplayer-example/build/intermediates/pre-dexed/all32/debug/otto-1.3.8_d972b8ae7a0e6339a54d848c83368a530ae5ccf5.jar" />
+    </item>
+    <item
+        jar="/Users/xiaolong/Develop/ijkSource/dist/ijkplayer/ijkplayer-example/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/xiaolong/Develop/ijkSource/dist/ijkplayer/ijkplayer-example/build/intermediates/pre-dexed/all32/debug/com.android.support-recyclerview-v7-23.0.1_cf0c710805a264828f5872c9573598ae9f409ff7.jar" />
+    </item>
+    <item
+        jar="/Users/xiaolong/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/xiaolong/Develop/ijkSource/dist/ijkplayer/ijkplayer-example/build/intermediates/pre-dexed/all32/debug/support-annotations-23.0.1_9ab9d720fb597d25a8cd0a2309dd29c88b4fb12d.jar" />
+    </item>
+    <item
+        jar="/Users/xiaolong/Develop/ijkSource/dist/ijkplayer/ijkplayer-example/build/intermediates/exploded-aar/com.android.support/preference-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="e27d0df01afa01bd384f91a3c41998133e9235a0">
+        <dex dex="/Users/xiaolong/Develop/ijkSource/dist/ijkplayer/ijkplayer-example/build/intermediates/pre-dexed/all32/debug/com.android.support-preference-v7-23.0.1_0f7ec6d89e1be38b9bb7a149ab8c1460f1ea0345.jar" />
+    </item>
+
+</items>
